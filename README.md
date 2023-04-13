@@ -24,6 +24,13 @@ Python のライブラリをオープンソースで公開している
 https://github.com/3b1b/manim
 
 
+MacTex のインストールは非常に時間がかかる。30分ぐらいかかった
+
+MacTex は、一度インストールするとアンインストールが難しい
+
+https://texwiki.texjp.org/?MacTeX
+
+
 ```shell
 brew install ffmpeg mactex
 
