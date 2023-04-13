@@ -23,8 +23,6 @@ Python のライブラリをオープンソースで公開している
 
 https://github.com/3b1b/manim
 
->>> manim <<<
-
 
 ```shell
 brew install ffmpeg mactex
